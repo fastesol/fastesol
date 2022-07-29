@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=fastesol%20&fontAlignY=40&color=gradient)
  
 
-### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
-Currently I'm learning and practicing courses and algorithms,
+### :man_technologist: I'm Muaaz Khalid (full-stack developer)
+
 
 <h1 ></h1>
 
