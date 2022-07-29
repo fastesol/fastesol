@@ -30,6 +30,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,postgresql,ps,flutter" />
   </a>
 </p>
